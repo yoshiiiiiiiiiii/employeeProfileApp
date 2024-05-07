@@ -50,7 +50,7 @@ profileApp<br>
 　　　│<br>
 　　　└resources<br>
 　　　　├static（Reactをビルドした資材を格納）<br>
-　　　　├alpha.png<br>
+　　　　├sample.png<br>
 　　　　├application.properties<br>
 　　　　├data.sql（DDL）<br>
 　　　　└schema.sql（DML）<br>
